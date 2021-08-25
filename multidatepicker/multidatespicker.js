@@ -9,8 +9,8 @@ var selectedDates = [];
 var years = [];
 
 // parameters to be set for the datepicker to run accordingly
-var minYear = 2011;
-var maxYear = 2020;
+var minYear = 2021;
+var maxYear = 2050;
 var startMonth = 0;
 var endMonth = 11;
 var highlightToday = true;
